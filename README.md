@@ -11,9 +11,11 @@
 • C++
 
 **Библиотеки и окружение:**  
-• Standard Library (STL) 
+• Standard Library (STL)
+
 **Инструментарий:**  
 • CMake • Git 
+
 **Парадигмы и техники:**  
 • ООП • RAII • Move-семантика  
 • Perfect forwarding • Exception safety  
